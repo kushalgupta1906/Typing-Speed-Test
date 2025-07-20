@@ -12,8 +12,7 @@ A **simple** web application built with **HTML**, **CSS**, and **JavaScript** th
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Project Structure](#project-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
+7. [License](#license)
 
 ---
 
